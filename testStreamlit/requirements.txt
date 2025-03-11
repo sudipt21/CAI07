@@ -1,5 +1,4 @@
 streamlit==1.31.0
-# Fixed versions to ensure compatibility
 transformers==4.30.2
 sentence-transformers==2.2.2
 faiss-cpu==1.7.4

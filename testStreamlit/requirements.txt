@@ -1,7 +1,8 @@
 streamlit==1.31.0
 sentence_transformers==2.2.2
-faiss-cpu==1.7.4
-#faiss-cpu
+#faiss-cpu==1.7.4
+faiss-cpu
 rank-bm25==0.2.2
-numpy
+#numpy
+numpy==1.24.3
 huggingface-hub==0.16.4
